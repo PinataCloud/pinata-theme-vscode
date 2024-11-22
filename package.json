@@ -1,23 +1,21 @@
 {
-  "name": "pinata",
-  "displayName": "Pinata Theme",
-  "description": "The official Pinata Theme for VSCode",
-  "version": "0.0.3",
-  "publisher": "pinata",
-  "icon": "logo.png",
-  "engines": {
-    "vscode": "^1.95.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Pinata",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Pinata-color-theme.json"
-      }
-    ]
-  }
+	"name": "pinata",
+	"displayName": "Pinata Theme",
+	"description": "The official Pinata Theme for VSCode",
+	"version": "0.0.4",
+	"publisher": "pinata",
+	"icon": "logo.png",
+	"engines": {
+		"vscode": "^1.95.0"
+	},
+	"categories": ["Themes"],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pinata",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Pinata-color-theme.json"
+			}
+		]
+	}
 }
