@@ -12,67 +12,21 @@ This theme follows the Pinata design system, providing a pleasing and whimsical 
 
 We use a Base16 color scheme system to define colors, which helps make it portable to other systems.
 
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #161420; margin-right: 12px;"></div>
-    <div>base00 (base) - #161420</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #252236; margin-right: 12px;"></div>
-    <div>base01 - #252236</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #504975; margin-right: 12px;"></div>
-    <div>base02 - #504975</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #504975; margin-right: 12px;"></div>
-    <div>base03 - #504975</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #e2ddff; margin-right: 12px;"></div>
-    <div>base04 - #e2ddff</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #f6f6f6; margin-right: 12px;"></div>
-    <div>base05 (text) - #f6f6f6</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #fbe4ff; margin-right: 12px;"></div>
-    <div>base06 (rose quartz) - #fbe4ff</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #e2ddff; margin-right: 12px;"></div>
-    <div>base07 (fog) - #e2ddff</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #f4aeff; margin-right: 12px;"></div>
-    <div>base08 (cotton candy) - #f4aeff</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #f9c455; margin-right: 12px;"></div>
-    <div>base09 (saffron mango) - #f9c455</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #ffd699; margin-right: 12px;"></div>
-    <div>base0A (grandis) - #ffd699</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #4de5a6; margin-right: 12px;"></div>
-    <div>base0B (shamrock) - #4de5a6</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #85eeba; margin-right: 12px;"></div>
-    <div>base0C (magic mint) - #85eeba</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #a79aff; margin-right: 12px;"></div>
-    <div>base0D (lavender) - #a79aff</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #c5bcff; margin-right: 12px;"></div>
-    <div>base0E (pale violet) - #c5bcff</div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <div style="width: 50px; height: 50px; background-color: #f7c9ff; margin-right: 12px;"></div>
-    <div>base0F (blush) - #f7c9ff</div>
-</div>
+| Color | Name | Hex |
+|-------|------|-----|
+| ![color](https://via.placeholder.com/15/161420/161420.png) | base00 (base) | #161420 |
+| ![color](https://via.placeholder.com/15/252236/252236.png) | base01 | #252236 |
+| ![color](https://via.placeholder.com/15/504975/504975.png) | base02 | #504975 |
+| ![color](https://via.placeholder.com/15/504975/504975.png) | base03 | #504975 |
+| ![color](https://via.placeholder.com/15/e2ddff/e2ddff.png) | base04 | #e2ddff |
+| ![color](https://via.placeholder.com/15/f6f6f6/f6f6f6.png) | base05 (text) | #f6f6f6 |
+| ![color](https://via.placeholder.com/15/fbe4ff/fbe4ff.png) | base06 (rose quartz) | #fbe4ff |
+| ![color](https://via.placeholder.com/15/e2ddff/e2ddff.png) | base07 (fog) | #e2ddff |
+| ![color](https://via.placeholder.com/15/f4aeff/f4aeff.png) | base08 (cotton candy) | #f4aeff |
+| ![color](https://via.placeholder.com/15/f9c455/f9c455.png) | base09 (saffron mango) | #f9c455 |
+| ![color](https://via.placeholder.com/15/ffd699/ffd699.png) | base0A (grandis) | #ffd699 |
+| ![color](https://via.placeholder.com/15/4de5a6/4de5a6.png) | base0B (shamrock) | #4de5a6 |
+| ![color](https://via.placeholder.com/15/85eeba/85eeba.png) | base0C (magic mint) | #85eeba |
+| ![color](https://via.placeholder.com/15/a79aff/a79aff.png) | base0D (lavender) | #a79aff |
+| ![color](https://via.placeholder.com/15/c5bcff/c5bcff.png) | base0E (pale violet) | #c5bcff |
+| ![color](https://via.placeholder.com/15/f7c9ff/f7c9ff.png) | base0F (blush) | #f7c9ff |
