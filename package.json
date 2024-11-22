@@ -1,8 +1,10 @@
 {
   "name": "pinata",
-  "displayName": "pinata",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Pinata Theme",
+  "description": "The official Pinata Theme for VSCode",
+  "version": "0.0.3",
+  "publisher": "pinata",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.95.0"
   },
