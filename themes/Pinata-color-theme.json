@@ -40,10 +40,10 @@
         "button.background": "#a79aff", //D
         "button.foreground": "#e2ddff", //7
         // "button.border": "#ff0000",
-        "button.hoverBackground": "#e2ddff", //4
+        "button.hoverBackground": "#c5bcff", //4
         "button.secondaryForeground": "#e2ddff", //7
-        "button.secondaryBackground": "#c5bcff", //E
-        "button.secondaryHoverBackground": "#e2ddff", //4
+        "button.secondaryBackground": "#a79aff", //E
+        "button.secondaryHoverBackground": "#c5bcff", //4
         "checkbox.background": "#161420", //0
         "checkbox.foreground": "#f6f6f6", //5
         // "checkbox.border": "#f00",
@@ -92,7 +92,7 @@
         "list.focusBackground": "#504975", //2
         "list.focusForeground": "#f6f6f6", //5
         "list.highlightForeground": "#e2ddff", //7
-        "list.hoverBackground": "#504975", //3
+        "list.hoverBackground": "#252236", //3
         "list.hoverForeground": "#f6f6f6", //5
         "list.inactiveSelectionBackground": "#504975", //2
         "list.inactiveSelectionForeground": "#f6f6f6", //5
@@ -471,15 +471,15 @@
         "notificationCenterHeader.background": "#252236", //1
         // "notificationToast.border": "",
         "notifications.foreground": "#f6f6f6", //5
-        "notifications.background": "#504975", //2
+        "notifications.background": "#252236", //2
         // "notifications.border": "",
-        "notificationLink.foreground": "#a79aff", //D
+        "notificationLink.foreground": "#504975", //D
         "notificationsErrorIcon.foreground": "#f4aeff", //8
         "notificationsWarningIcon.foreground": "#ffd699", //A
         "notificationsInfoIcon.foreground": "#a79aff", //D
 
         // Below is no longer supported as of 1.21
-        "notification.background": "#504975", //2
+        "notification.background": "#252236", //2
         "notification.foreground": "#f6f6f6", //5
         "notification.buttonBackground": "#a79aff", //D
         "notification.buttonHoverBackground": "#504975", //2
