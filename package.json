@@ -2,7 +2,7 @@
 	"name": "pinata",
 	"displayName": "Pinata Theme",
 	"description": "The official Pinata Theme for VSCode",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"publisher": "pinata",
 	"icon": "logo.png",
 	"engines": {
