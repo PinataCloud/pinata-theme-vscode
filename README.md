@@ -17,10 +17,10 @@ We use a Base16 color scheme system to define colors, which helps make it portab
 | Color | Name | Hex |
 |-------|------|-----|
 | ![color](https://via.placeholder.com/100/161420/161420.png) | base00 (base) | #161420 |
-| ![color](https://via.placeholder.com/100/252236/252236.png) | base01 | #252236 |
-| ![color](https://via.placeholder.com/100/504975/504975.png) | base02 | #504975 |
-| ![color](https://via.placeholder.com/100/504975/504975.png) | base03 | #504975 |
-| ![color](https://via.placeholder.com/100/e2ddff/e2ddff.png) | base04 | #e2ddff |
+| ![color](https://via.placeholder.com/100/252236/252236.png) | base01 (surface 0) | #252236 |
+| ![color](https://via.placeholder.com/100/504975/504975.png) | base02 (surface 1) | #504975 |
+| ![color](https://via.placeholder.com/100/504975/504975.png) | base03 (surface 2) | #504975 |
+| ![color](https://via.placeholder.com/100/e2ddff/e2ddff.png) | base04 (surface 3) | #e2ddff |
 | ![color](https://via.placeholder.com/100/f6f6f6/f6f6f6.png) | base05 (text) | #f6f6f6 |
 | ![color](https://via.placeholder.com/100/fbe4ff/fbe4ff.png) | base06 (rose quartz) | #fbe4ff |
 | ![color](https://via.placeholder.com/100/e2ddff/e2ddff.png) | base07 (fog) | #e2ddff |
